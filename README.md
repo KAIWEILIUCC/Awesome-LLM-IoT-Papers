@@ -7,9 +7,9 @@
 - [📜 Surveys](#surveys)
 - [🎲 LLM Agents](#llm-agents) 
 - [🚀 Edge FM](#edge-fm)
-- [💡 Insteresting Applications](#interesting-applications)
 - [🔊 Sensor Data Understanding](#sensor-data-understanding)
 - [💻 Code Generation](#code-generation)
+- [💡 Interesting Applications](#interesting-applications)
 - [🔗 Resources](#resources)
 
 ## Surveys
@@ -52,13 +52,6 @@ Your Data, Your Model: [A Framework for Training and Deploying Foundational Lang
 Penetrative AI: [Making LLMs Comprehend the Physical World](https://arxiv.org/abs/2310.09605) (ACL 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09605)
 
-## Insteresting Applications
-TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16020)
-
-
-IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models (Arxiv) [Paper](https://arxiv.org/abs/2410.02429)
-
 ## Code Generation
 AutoIOT: [LLM-Driven Automated Natural Language Programming for AIoT Applications](https://arxiv.org/abs/2503.05346) (MobiCom 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05346)
@@ -67,6 +60,13 @@ AutoIOT: [LLM-Driven Automated Natural Language Programming for AIoT Application
 GPIoT: [Tailoring Small Language Models for IoT Program Synthesis and Development](https://arxiv.org/abs/2503.00686) (SenSys 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.00686)
 [![Star](https://img.shields.io/github/stars/lemingshen/GPIoT.svg?style=social&label=Star)](https://github.com/lemingshen/GPIoT.git)
+
+## Interesting Applications
+TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16020)
+
+
+IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models (Arxiv) [Paper](https://arxiv.org/abs/2410.02429)
 
 
 ## Resources
