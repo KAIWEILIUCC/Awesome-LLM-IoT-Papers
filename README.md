@@ -8,8 +8,9 @@
 - [🎲 LLM Agents](#llm-agents) 
 - [🚀 Edge FM](#edge-fm)
 - [💡 Insteresting Applications](#interesting-applications)
-- [🔗 Resources](#resources)
 - [🔊 Sensor Data Understanding](#sensor-data-understanding)
+- [💻 Code Generation](#code-generation)
+- [🔗 Resources](#resources)
 
 ## Surveys
 
@@ -59,4 +60,15 @@ AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT Applications
 
 IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models (Arxiv) [Paper](https://arxiv.org/abs/2410.02429)
 
+## Code Generation
+AutoIOT: [LLM-Driven Automated Natural Language Programming for AIoT Applications](https://arxiv.org/abs/2503.05346) (MobiCom 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05346)
+[![Star](https://img.shields.io/github/stars/lemingshen/AutoIOT.svg?style=social&label=Star)](https://github.com/lemingshen/AutoIOT.git)
+
+GPIoT: [Tailoring Small Language Models for IoT Program Synthesis and Development](https://arxiv.org/abs/2503.00686) (SenSys 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.00686)
+[![Star](https://img.shields.io/github/stars/lemingshen/GPIoT.svg?style=social&label=Star)](https://github.com/lemingshen/GPIoT.git)
+
+
 ## Resources
+
