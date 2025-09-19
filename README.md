@@ -23,6 +23,16 @@ MobileGPT: [Augmenting LLM with Human-like App Memory for Mobile Task Automation
 
 [Poster: Enabling Agent-centric Interaction on Smartphones with LLM-based UI Reassembling](https://dl.acm.org/doi/10.1145/3643832.3661432) (MobiSys 2024) 
 
+
+[LLMind: Orchestrating AI and IoT with LLM for Complex Task Execution](https://arxiv.org/abs/2312.09007).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09007)
+
+
+[LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents](https://www.arxiv.org/abs/2508.13920).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2508.13920)
+
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
