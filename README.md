@@ -21,6 +21,8 @@ MobileGPT: [Augmenting LLM with Human-like App Memory for Mobile Task Automation
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03003)
 [![Star](https://img.shields.io/github/stars/mobilegptsys/MobileGPT.svg?style=social&label=Star)](https://github.com/mobilegptsys/MobileGPT.git)
 
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
@@ -43,5 +45,8 @@ Penetrative AI: [Making LLMs Comprehend the Physical World](https://arxiv.org/ab
 TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16020)
 
-## Resources
+AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT Applications (Mobicom 2025) [Paper](https://lemingshen.github.io/assets/publication/conference/AutoIOT/paper.pdf)
 
+IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models (Arxiv) [Paper](https://arxiv.org/abs/2410.02429)
+
+## Resources
