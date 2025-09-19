@@ -25,6 +25,14 @@ MobileGPT: [Augmenting LLM with Human-like App Memory for Mobile Task Automation
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
 
+Your Data, Your Model: [A Framework for Training and Deploying Foundational Language Models for Embedded Devices.](https://dl.acm.org/doi/10.1145/3636534.3695901) (MobiCom 2024)
+
+
+[Federated Black-box Prompt Tuning System for Large Language Models on the Edge.](https://dl.acm.org/doi/10.1145/3636534.3698856) (MobiCom 2024)
+
+[A Framework for Training and Deploying Foundational Language Models for Embedded Sensing.](https://dl.acm.org/doi/10.1145/3636534.3695901) (MobiCom 2024)
+
+
 ## Sensor Data Understanding
 [Improving On-Device LLMs' Sensory Understanding with Embedding Interpolations](https://dl.acm.org/doi/10.1145/3636534.3697456) (MobiCom 2024)
 
