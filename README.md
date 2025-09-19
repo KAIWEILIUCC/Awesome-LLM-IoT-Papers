@@ -56,7 +56,6 @@ Penetrative AI: [Making LLMs Comprehend the Physical World](https://arxiv.org/ab
 TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16020)
 
-AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT Applications (Mobicom 2025) [Paper](https://lemingshen.github.io/assets/publication/conference/AutoIOT/paper.pdf)
 
 IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models (Arxiv) [Paper](https://arxiv.org/abs/2410.02429)
 
