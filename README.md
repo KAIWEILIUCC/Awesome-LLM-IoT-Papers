@@ -14,7 +14,7 @@
 - [🔗 Resources](#resources)
 
 ## Surveys
-[A Survey of Foundation Models for IoT: Taxonomy and Criteria-Based Analysis](https://arxiv.org/abs/2506.12263) 
+[A Survey of Foundation Models for IoT: Taxonomy and Criteria-Based Analysis](https://arxiv.org/abs/2506.12263).  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.12263)
 
 ## LLM Agents
