@@ -22,6 +22,8 @@
 [Foundation Models for CPS-IoT: Opportunities and Challenges](https://arxiv.org/abs/2501.16368).  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.16368)
 
+[LLMs and IoT: A Comprehensive Survey on Large Language Models and the Internet of Things](https://www.techrxiv.org/users/894996/articles/1271502/master/file/data/LLMs%20and%20IoT_A_Comprehensive_Survey_V2/LLMs%20and%20IoT_A_Comprehensive_Survey_V2.pdf?inline=true).
+
 ## LLM Agents
 AutoDroid: [LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15272)
