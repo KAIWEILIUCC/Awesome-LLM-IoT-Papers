@@ -61,12 +61,16 @@ GPIoT: [Tailoring Small Language Models for IoT Program Synthesis and Developmen
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.00686)
 [![Star](https://img.shields.io/github/stars/lemingshen/GPIoT.svg?style=social&label=Star)](https://github.com/lemingshen/GPIoT.git)
 
+CheckMate: [LLM-Powered Approximate Intermittent Computing](https://dl.acm.org/doi/10.1145/3715014.3722056) (SenSys 2025)
+
 ## Interesting Applications
 TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16020)
 
 
 IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models (Arxiv) [Paper](https://arxiv.org/abs/2410.02429)
+
+
 
 
 ## Resources
