@@ -14,6 +14,8 @@
 - [🔗 Resources](#resources)
 
 ## Surveys
+[A Survey of Foundation Models for IoT: Taxonomy and Criteria-Based Analysis](https://arxiv.org/abs/2506.12263) (MobiCom 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.12263)
 
 ## LLM Agents
 AutoDroid: [LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272) (MobiCom 2024)  
