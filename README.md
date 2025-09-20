@@ -10,6 +10,7 @@
 - [🔊 Sensor Data Understanding](#sensor-data-understanding)
 - [💻 Code Generation](#code-generation)
 - [💡 Interesting Applications](#interesting-applications)
+- [🧑‍⚕️ Smart Health](#smart-health)
 - [🔗 Resources](#resources)
 
 ## Surveys
@@ -33,6 +34,10 @@ MobileGPT: [Augmenting LLM with Human-like App Memory for Mobile Task Automation
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2508.13920)
 
 
+TaskSense: [A Translation-like Approach for Tasking Heterogeneous Sensor Systems with LLMs.](https://dl.acm.org/doi/10.1145/3715014.3722070) (SenSys 2025)
+
+
+[Toward Sensor-In-the-Loop LLM Agent: Benchmarks and Implications.](https://doi.org/10.1145/3715014.3722082) (SenSys 2025)
 
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
@@ -71,6 +76,11 @@ TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportati
 IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models (Arxiv) [Paper](https://arxiv.org/abs/2410.02429)
 
 
+LightLLM: [A Versatile Large Language Model for Predictive Light Sensing](https://arxiv.org/abs/2411.15211) (SenSys 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15211)
+
+## Smart Health
+SHADE-AD: [An LLM-Based Framework for Synthesizing Activity Data of Alzheimer's Patients.](https://dl.acm.org/doi/10.1145/3715014.3722062) (SenSys 2025)
 
 
 ## Resources
