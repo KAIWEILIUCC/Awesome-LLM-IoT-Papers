@@ -17,6 +17,11 @@
 [A Survey of Foundation Models for IoT: Taxonomy and Criteria-Based Analysis](https://arxiv.org/abs/2506.12263).  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.12263)
 
+[The role of Large Language Models in addressing IoT challenges: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S0167739X25001244).
+
+[Foundation Models for CPS-IoT: Opportunities and Challenges](https://arxiv.org/abs/2501.16368).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.16368)
+
 ## LLM Agents
 AutoDroid: [LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15272)
