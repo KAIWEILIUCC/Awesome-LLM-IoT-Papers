@@ -119,7 +119,8 @@ TRAMBA: [A Hybrid Transformer and Mamba Architecture for Practical Audio and Bon
 
 Sensor2Scene: [Foundation Model-Driven Interactive Realities](https://ieeexplore.ieee.org/abstract/document/10590268) (ACM FMSys 2024)
 
-
+[See Where You Read with Eye Gaze Tracking and Large Language Model](https://arxiv.org/abs/2409.19454) (IMWUT 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19454)
 
 ## Smart Health
 SHADE-AD: [An LLM-Based Framework for Synthesizing Activity Data of Alzheimer's Patients.](https://dl.acm.org/doi/10.1145/3715014.3722062) (SenSys 2025)
