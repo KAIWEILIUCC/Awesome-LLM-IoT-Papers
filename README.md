@@ -119,7 +119,7 @@ TRAMBA: [A Hybrid Transformer and Mamba Architecture for Practical Audio and Bon
 
 Sensor2Scene: [Foundation Model-Driven Interactive Realities](https://ieeexplore.ieee.org/abstract/document/10590268) (ACM FMSys 2024)
 
-[See Where You Read with Eye Gaze Tracking and Large Language Model](https://arxiv.org/abs/2409.19454) (IMWUT 2024)  
+[See Where You Read with Eye Gaze Tracking and Large Language Model](https://arxiv.org/abs/2409.19454)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19454)
 
 ## Smart Health
