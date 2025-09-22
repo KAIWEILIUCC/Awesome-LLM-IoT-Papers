@@ -74,6 +74,9 @@ EdgeFM: [Leveraging Foundation Model for Open-set Learning on the Edge](https://
 Penetrative AI: [Making LLMs Comprehend the Physical World](https://arxiv.org/abs/2310.09605) (ACL 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09605)
 
+[Exploring the Capabilities of LLMs for IMU-based Fine-grained Human Activity Understanding](https://arxiv.org/abs/2504.02878) (ACM FMSys 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02878)
+
 ## Code Generation
 AutoIOT: [LLM-Driven Automated Natural Language Programming for AIoT Applications](https://arxiv.org/abs/2503.05346) (MobiCom 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05346)
