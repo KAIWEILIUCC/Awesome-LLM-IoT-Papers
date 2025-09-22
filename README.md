@@ -81,7 +81,7 @@ CheckMate: [LLM-Powered Approximate Intermittent Computing](https://dl.acm.org/d
 TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16020)
 
-Llambda: [An LLM-Empowered Low-Resolution Vision System for On-Device Human Behavior Understanding](https://arxiv.org/pdf/2505.01743)
+Llambda: [An LLM-Empowered Low-Resolution Vision System for On-Device Human Behavior Understanding](https://arxiv.org/pdf/2505.01743)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.01743)
 
 IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models (Arxiv) [Paper](https://arxiv.org/abs/2410.02429)
