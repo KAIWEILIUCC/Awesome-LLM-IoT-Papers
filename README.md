@@ -48,8 +48,10 @@ TaskSense: [A Translation-like Approach for Tasking Heterogeneous Sensor Systems
 
 [Toward Sensor-In-the-Loop LLM Agent: Benchmarks and Implications.](https://doi.org/10.1145/3715014.3722082) (SenSys 2025)
 
-ContextAgent: [Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions](https://arxiv.org/abs/2505.14668).  
+ContextAgent: [Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions](https://arxiv.org/abs/2505.14668). (NeurIPS 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.14668)
+
+SensorMCP: [A Model Context Protocol Server for Custom Sensor Tool Creation](https://guoyunqi.com/assets/pdf/sensormcp-netaisys2025.pdf). (NetAISys 2025)
 
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
