@@ -25,6 +25,10 @@
 
 [LLMs and IoT: A Comprehensive Survey on Large Language Models and the Internet of Things](https://www.techrxiv.org/users/894996/articles/1271502/master/file/data/LLMs%20and%20IoT_A_Comprehensive_Survey_V2/LLMs%20and%20IoT_A_Comprehensive_Survey_V2.pdf?inline=true).
 
+
+[A Review on Edge Large Language Models: Design, Execution, and Applications](https://dl.acm.org/doi/full/10.1145/3719664).
+
+
 ## LLM Agents
 AutoDroid: [LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15272)
@@ -56,6 +60,10 @@ SensorMCP: [A Model Context Protocol Server for Custom Sensor Tool Creation](htt
 
 [Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://arxiv.org/abs/2503.15937).  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.15937)
+
+
+[Empowering Agentic Video Analytics Systems with Video Language Models](https://arxiv.org/abs/2505.00254).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00254)
 
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
