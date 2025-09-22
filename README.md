@@ -53,6 +53,9 @@ ContextAgent: [Context-Aware Proactive LLM Agents with Open-World Sensory Percep
 
 SensorMCP: [A Model Context Protocol Server for Custom Sensor Tool Creation](https://guoyunqi.com/assets/pdf/sensormcp-netaisys2025.pdf). (NetAISys 2025)
 
+[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://arxiv.org/abs/2503.15937).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.15937)
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
@@ -126,6 +129,9 @@ DrHouse: [An LLM-empowered Diagnostic Reasoning System through Harnessing Outcom
 
 [LLM-based Conversational AI Therapist for Daily Functioning Screening and Psychotherapeutic Intervention via Everyday Smart Devices](https://arxiv.org/abs/2403.10779)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.10779)
+
+AutoLife: [Automatic Life Journaling with Smartphones and LLMs](https://arxiv.org/abs/2412.15714)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15714)
 
 ## Resources
 
