@@ -75,6 +75,10 @@ AutoBridge: [Automating Smart Device Integration with Centralized Platform](http
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04748)
 
 
+[Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models](https://arxiv.org/abs/2507.08878).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.08878)
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
