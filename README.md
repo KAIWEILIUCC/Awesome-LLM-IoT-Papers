@@ -65,6 +65,16 @@ SensorMCP: [A Model Context Protocol Server for Custom Sensor Tool Creation](htt
 [Empowering Agentic Video Analytics Systems with Video Language Models](https://arxiv.org/abs/2505.00254).  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00254)
 
+
+
+AutoBridge: [Automating Smart Device Integration with Centralized Platform](https://arxiv.org/abs/2507.23178).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.23178)
+
+
+[LLM-based Question-Answer Framework for Sensor-driven HVAC System Interaction](https://arxiv.org/abs/2507.04748).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04748)
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
