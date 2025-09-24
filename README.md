@@ -83,6 +83,10 @@ EdgeFM: [Leveraging Foundation Model for Open-set Learning on the Edge](https://
 Confidant: [Customizing Transformer-based LLMs via Collaborative Training on Mobile Devices](https://yshu.org/paper/mobicom25confidant.pdf) (MobiCom 2025)  
 
 
+[Dynamic Sparse Attention on Mobile SoCs](https://arxiv.org/abs/2508.16703)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16703)
+
+
 ## Sensor Data Understanding
 [Improving On-Device LLMs' Sensory Understanding with Embedding Interpolations](https://dl.acm.org/doi/10.1145/3636534.3697456) (MobiCom 2024)
 
