@@ -79,6 +79,22 @@ AutoBridge: [Automating Smart Device Integration with Centralized Platform](http
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.08878)
 
 
+UIShift: [Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning](https://arxiv.org/abs/2505.12493).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.12493)
+
+
+MCPWorld: [A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents](https://arxiv.org/abs/2506.07672).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.07672)
+
+
+MobileViews: [A Large-Scale Mobile GUI Dataset](https://arxiv.org/abs/2409.14337).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.14337)
+
+
+
+
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
@@ -99,6 +115,32 @@ Confidant: [Customizing Transformer-based LLMs via Collaborative Training on Mob
 
 [Dynamic Sparse Attention on Mobile SoCs](https://arxiv.org/abs/2508.16703)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16703)
+
+
+MobiEdit: [Resource-efficient Knowledge Editing for Personalized On-device LLMs](https://www.arxiv.org/abs/2506.13772)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2506.13772)
+
+
+PhoneLM: [an Efficient and Capable Small Language Model Family through Principled Pre-training](https://arxiv.org/abs/2411.05046)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05046)
+
+
+
+[LLM as a System Service on Mobile Devices](https://arxiv.org/abs/2403.11805)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.11805)
+
+
+LoRASuite: [Efficient LoRA Adaptation Across Large Language Model Upgrades](https://arxiv.org/abs/2505.13515)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.13515)
+
+
+
+ELMS: [Elasticized Large Language Models On Mobile Devices](https://arxiv.org/pdf/2409.09071)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.09071)
+
+
+
+
 
 
 ## Sensor Data Understanding
