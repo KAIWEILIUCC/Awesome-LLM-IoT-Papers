@@ -145,6 +145,7 @@ ELMS: [Elasticized Large Language Models On Mobile Devices](https://arxiv.org/pd
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.09071)
 
 
+[Serving MoE Models on Resource-constrained Edge Devices via Dynamic Expert Swapping](https://ieeexplore.ieee.org/document/11022729)  
 
 
 
@@ -199,6 +200,17 @@ Sensor2Scene: [Foundation Model-Driven Interactive Realities](https://ieeexplore
 
 [See Where You Read with Eye Gaze Tracking and Large Language Model](https://arxiv.org/abs/2409.19454)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19454)
+
+
+[Empower Vision Applications with LoRA LMM](https://arxiv.org/abs/2411.00915) 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00915)
+
+
+
+
+
+
+
 
 ## Smart Health
 SHADE-AD: [An LLM-Based Framework for Synthesizing Activity Data of Alzheimer's Patients.](https://dl.acm.org/doi/10.1145/3715014.3722062) (SenSys 2025)
