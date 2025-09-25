@@ -239,6 +239,11 @@ AutoLife: [Automatic Life Journaling with Smartphones and LLMs](https://arxiv.or
 MDTeamGPT: [A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation](https://arxiv.org/abs/2503.13856)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.13856)
 
+
+[Introduction to the Special Issue on Large Language Models, Conversational Systems, and Generative AI in Health—Part 1](https://dl.acm.org/doi/10.1145/3723454)
+
+
+
 ## Robotics
 RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](https://arxiv.org/abs/2508.21378)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21378)
