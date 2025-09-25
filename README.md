@@ -224,6 +224,9 @@ DrHouse: [An LLM-empowered Diagnostic Reasoning System through Harnessing Outcom
 AutoLife: [Automatic Life Journaling with Smartphones and LLMs](https://arxiv.org/abs/2412.15714)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15714)
 
+MDTeamGPT: [A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation](https://arxiv.org/abs/2503.13856)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.13856)
+
 ## Robotics
 RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](https://arxiv.org/abs/2508.21378)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21378)
