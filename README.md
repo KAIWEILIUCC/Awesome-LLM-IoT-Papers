@@ -173,6 +173,17 @@ Penetrative AI: [Making LLMs Comprehend the Physical World](https://arxiv.org/ab
 [Exploring the Capabilities of LLMs for IMU-based Fine-grained Human Activity Understanding](https://arxiv.org/abs/2504.02878) (ACM FMSys 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02878)
 
+
+
+ContextLLM: [Meaningful Context Reasoning from Multi-Sensor and Multi-Device Data Using LLMs.](https://dl.acm.org/doi/10.1145/3708468.3711892) (HotMobile 2025)  
+
+
+SensorBench: [Benchmarking LLMs in Coding-Based Sensor Processing](https://dl.acm.org/doi/10.1145/3708468.3711882) (HotMobile 2025)  
+
+
+
+
+
 ## Code Generation
 AutoIOT: [LLM-Driven Automated Natural Language Programming for AIoT Applications](https://arxiv.org/abs/2503.05346) (MobiCom 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05346)
@@ -221,7 +232,7 @@ Sensor2Scene: [Foundation Model-Driven Interactive Realities](https://ieeexplore
 
 
 
-
+[Can we make FCC Experts out of LLMs?](https://dl.acm.org/doi/10.1145/3708468.3711885) (HotMobile 2025)
 
 
 
