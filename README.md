@@ -229,4 +229,3 @@ RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robot
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21378)
 
 ## Resources
-
