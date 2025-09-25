@@ -181,6 +181,7 @@ ContextLLM: [Meaningful Context Reasoning from Multi-Sensor and Multi-Device Dat
 SensorBench: [Benchmarking LLMs in Coding-Based Sensor Processing](https://dl.acm.org/doi/10.1145/3708468.3711882) (HotMobile 2025)  
 
 
+[Making Sensing Interactive and Descriptive with LLMs: Context Reasoning from Multi-Sensor Data](https://dl.acm.org/doi/10.1145/3708468.3715686) (HotMobile 2025)  
 
 
 
