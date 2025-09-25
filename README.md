@@ -92,6 +92,8 @@ MobileViews: [A Large-Scale Mobile GUI Dataset](https://arxiv.org/abs/2409.14337
 
 
 
+AutoDroid-V2: [Boosting SLM-based GUI Agents via Code Generation](https://arxiv.org/abs/2412.18116).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.18116)
 
 
 
