@@ -258,6 +258,10 @@ MDTeamGPT: [A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplina
 [Introduction to the Special Issue on Large Language Models, Conversational Systems, and Generative AI in Health—Part 1](https://dl.acm.org/doi/10.1145/3723454)
 
 
+CataractBot: [An LLM-powered Expert-in-the-Loop Chatbot for Cataract Patients](https://dl.acm.org/doi/10.1145/3729479)
+
+
+GLOSS: [Group of LLMs for Open-ended Sensemaking of Passive Sensing Data for Health and Wellbeing.](https://dl.acm.org/doi/10.1145/3749474)
 
 ## Robotics
 RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](https://arxiv.org/abs/2508.21378)  
