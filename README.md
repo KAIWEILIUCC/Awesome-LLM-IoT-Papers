@@ -230,3 +230,5 @@ RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robot
 
 ## Resources
 
+
+[![Stargazers repo roster for @KAIWEILIUCC/Awesome-LLM-IoT-Papers](https://reporoster.com/stars/KAIWEILIUCC/Awesome-LLM-IoT-Papers)](https://github.com/KAIWEILIUCC/Awesome-LLM-IoT-Papers/stargazers)
