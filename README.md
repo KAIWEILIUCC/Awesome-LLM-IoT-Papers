@@ -161,6 +161,8 @@ ELMS: [Elasticized Large Language Models On Mobile Devices](https://arxiv.org/pd
 
 
 
+HAPE: [Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization](https://dl.acm.org/doi/10.1145/3744244)  
+
 
 ## Sensor Data Understanding
 [Improving On-Device LLMs' Sensory Understanding with Embedding Interpolations](https://dl.acm.org/doi/10.1145/3636534.3697456) (MobiCom 2024)
