@@ -202,7 +202,7 @@ Sensor2Scene: [Foundation Model-Driven Interactive Realities](https://ieeexplore
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19454)
 
 
-[Empower Vision Applications with LoRA LMM](https://arxiv.org/abs/2411.00915) 
+[Empower Vision Applications with LoRA LMM](https://arxiv.org/abs/2411.00915)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00915)
 
 
