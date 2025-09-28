@@ -276,6 +276,12 @@ Demo: Myotrainer: [Muscle-Aware Motion Analysis and Feedback System for In-Home 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16569)
 
 
+
+DermINO: [Hybrid Pretraining for a Versatile Dermatology Foundation Model](https://arxiv.org/abs/2508.12190)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12190)
+
+
+
 ## Robotics
 RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](https://arxiv.org/abs/2508.21378)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21378)
