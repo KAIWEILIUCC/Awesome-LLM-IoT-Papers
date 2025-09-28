@@ -264,7 +264,7 @@ CataractBot: [An LLM-powered Expert-in-the-Loop Chatbot for Cataract Patients](h
 GLOSS: [Group of LLMs for Open-ended Sensemaking of Passive Sensing Data for Health and Wellbeing.](https://dl.acm.org/doi/10.1145/3749474)
 
 
-
+Demo: Myotrainer: [Muscle-Aware Motion Analysis and Feedback System for In-Home Resistance Training](https://dl.acm.org/doi/10.1145/3666025.3699397)
 
 
 ## Robotics
