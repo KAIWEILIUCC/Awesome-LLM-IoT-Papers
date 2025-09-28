@@ -185,6 +185,10 @@ SensorBench: [Benchmarking LLMs in Coding-Based Sensor Processing](https://dl.ac
 [Making Sensing Interactive and Descriptive with LLMs: Context Reasoning from Multi-Sensor Data](https://dl.acm.org/doi/10.1145/3708468.3715686) (HotMobile 2025)  
 
 
+Babel: [A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment](https://arxiv.org/abs/2407.17777)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17777)
+
+
 
 ## Code Generation
 AutoIOT: [LLM-Driven Automated Natural Language Programming for AIoT Applications](https://arxiv.org/abs/2503.05346) (MobiCom 2025)  
@@ -244,6 +248,13 @@ RouteLLM: [A Large Language Model with Native Route Context Understanding to Ena
 [Congestion Control System Optimization with Large Language Models](https://arxiv.org/abs/2508.16074)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16074)
 
+
+[Enhancing User Engagement in Socially-Driven Dialogue through Interactive LLM Alignments](https://arxiv.org/abs/2506.21497)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.21497)
+
+
+SecurityLingua: [Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression](https://arxiv.org/abs/2506.12707)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.12707)
 
 
 ## Smart Health
