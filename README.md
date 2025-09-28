@@ -8,6 +8,7 @@
 - [🎲 LLM Agents](#llm-agents) 
 - [🚀 Edge FM](#edge-fm)
 - [🔊 Sensor Data Understanding](#sensor-data-understanding)
+- [📊 Sensor Data Generation](#sensor-data-generation)
 - [💻 Code Generation](#code-generation)
 - [💡 Interesting Applications](#interesting-applications)
 - [🧑‍⚕️ Smart Health](#smart-health)
@@ -114,6 +115,12 @@ AgentCPM-GUI: [Building Mobile-Use Agents with Reinforcement Fine-Tuning](https:
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01391)
 
 
+[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://arxiv.org/abs/2503.15937).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.15937)
+
+
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
@@ -189,6 +196,17 @@ Babel: [A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Moda
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17777)
 
 
+[Empowering Agentic Video Analytics Systems with Video Language Models](https://arxiv.org/abs/2505.00254)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00254)
+
+
+## Sensor Data Generation
+
+[High Resolution Millimeter Wave Imaging Based on FMCW Radar Systems at W-Band](https://dl.acm.org/doi/10.1145/3711875.3729162)
+
+
+SHADE-AD: [An LLM-Based Framework for Synthesizing Activity Data of Alzheimer's Patients.](https://dl.acm.org/doi/10.1145/3715014.3722062) (SenSys 2025)
+
 
 ## Code Generation
 AutoIOT: [LLM-Driven Automated Natural Language Programming for AIoT Applications](https://arxiv.org/abs/2503.05346) (MobiCom 2025)  
@@ -258,8 +276,6 @@ SecurityLingua: [Efficient Defense of LLM Jailbreak Attacks via Security-Aware P
 
 
 ## Smart Health
-SHADE-AD: [An LLM-Based Framework for Synthesizing Activity Data of Alzheimer's Patients.](https://dl.acm.org/doi/10.1145/3715014.3722062) (SenSys 2025)
-
 DrHouse: [An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://arxiv.org/abs/2405.12541) (IMWUT 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.12541)
 
