@@ -240,6 +240,12 @@ Sensor2Scene: [Foundation Model-Driven Interactive Realities](https://ieeexplore
 RouteLLM: [A Large Language Model with Native Route Context Understanding to Enable Context-Aware Reasoning](https://dl.acm.org/doi/10.1145/3749552) (IMWUT 2025)
 
 
+
+[Congestion Control System Optimization with Large Language Models](https://arxiv.org/abs/2508.16074)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16074)
+
+
+
 ## Smart Health
 SHADE-AD: [An LLM-Based Framework for Synthesizing Activity Data of Alzheimer's Patients.](https://dl.acm.org/doi/10.1145/3715014.3722062) (SenSys 2025)
 
@@ -265,6 +271,9 @@ GLOSS: [Group of LLMs for Open-ended Sensemaking of Passive Sensing Data for Hea
 
 
 Demo: Myotrainer: [Muscle-Aware Motion Analysis and Feedback System for In-Home Resistance Training](https://dl.acm.org/doi/10.1145/3666025.3699397)
+
+[A Disease-Centric Vision-Language Foundation Model for Precision Oncology in Kidney Cancer](https://arxiv.org/abs/2508.16569)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16569)
 
 
 ## Robotics
