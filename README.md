@@ -308,6 +308,9 @@ DermINO: [Hybrid Pretraining for a Versatile Dermatology Foundation Model](https
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12190)
 
 
+DynamiCare: [A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.02616)
+
 
 ## Robotics
 RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](https://arxiv.org/abs/2508.21378)  
