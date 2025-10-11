@@ -35,6 +35,15 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04752)
 
 
+[Toward Edge General Intelligence via Large Language Models: Opportunities and Challenges](https://ieeexplore.ieee.org/abstract/document/10876185).
+
+
+[Large Language Models in Smart Grid: Applications and Risks](https://link.springer.com/chapter/10.1007/978-3-031-96146-5_1).
+
+
+
+
+
 ## LLM Agents
 AutoDroid: [LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15272)
