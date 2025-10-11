@@ -275,6 +275,9 @@ SecurityLingua: [Efficient Defense of LLM Jailbreak Attacks via Security-Aware P
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.12707)
 
 
+[Toward Foundation Models for Online Complex Event Detection in CPS-IoT: A Case Study](https://dl.acm.org/doi/abs/10.1145/3722565.3727198) 
+
+
 ## Smart Health
 DrHouse: [An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://arxiv.org/abs/2405.12541) (IMWUT 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.12541)
@@ -310,6 +313,9 @@ DermINO: [Hybrid Pretraining for a Versatile Dermatology Foundation Model](https
 
 DynamiCare: [A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.02616)
+
+
+[Demo Abstract: An LLM-Powered Multimodal Mobile Sensing System for Personalized and Interactive Health Behavior Analysis](https://dl.acm.org/doi/10.1145/3715014.3724376) 
 
 
 ## Robotics
