@@ -31,6 +31,10 @@
 [A Review on Edge Large Language Models: Design, Execution, and Applications](https://dl.acm.org/doi/full/10.1145/3719664).
 
 
+[Large Language Models for Network Intrusion Detection Systems: Foundations, Implementations, and Future Directions](https://arxiv.org/abs/2507.04752).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04752)
+
+
 ## LLM Agents
 AutoDroid: [LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15272)
@@ -276,6 +280,10 @@ SecurityLingua: [Efficient Defense of LLM Jailbreak Attacks via Security-Aware P
 
 
 [Toward Foundation Models for Online Complex Event Detection in CPS-IoT: A Case Study](https://dl.acm.org/doi/abs/10.1145/3722565.3727198) 
+
+
+RealFactBench: [A Benchmark for Evaluating Large Language Models in Real-World Fact-Checking](https://arxiv.org/abs/2506.12538)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.12538)
 
 
 ## Smart Health
