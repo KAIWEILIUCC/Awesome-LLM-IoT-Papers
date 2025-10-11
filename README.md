@@ -41,7 +41,8 @@
 [Large Language Models in Smart Grid: Applications and Risks](https://link.springer.com/chapter/10.1007/978-3-031-96146-5_1).
 
 
-
+[Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.15790)
 
 
 ## LLM Agents
@@ -185,6 +186,10 @@ ELMS: [Elasticized Large Language Models On Mobile Devices](https://arxiv.org/pd
 HAPE: [Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization](https://dl.acm.org/doi/10.1145/3744244)  
 
 
+[Demystifying Small Language Models for Edge Deployment](https://aclanthology.org/2025.acl-long.718/)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://aclanthology.org/2025.acl-long.718/)
+
+
 ## Sensor Data Understanding
 [Improving On-Device LLMs' Sensory Understanding with Embedding Interpolations](https://dl.acm.org/doi/10.1145/3636534.3697456) (MobiCom 2024)
 
@@ -231,6 +236,10 @@ GPIoT: [Tailoring Small Language Models for IoT Program Synthesis and Developmen
 [![Star](https://img.shields.io/github/stars/lemingshen/GPIoT.svg?style=social&label=Star)](https://github.com/lemingshen/GPIoT.git)
 
 CheckMate: [LLM-Powered Approximate Intermittent Computing](https://dl.acm.org/doi/10.1145/3715014.3722056) (SenSys 2025)
+
+
+[Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis](https://dl.acm.org/doi/abs/10.1145/3658617.3697616) 
+
 
 ## Interesting Applications
 TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
@@ -293,6 +302,13 @@ SecurityLingua: [Efficient Defense of LLM Jailbreak Attacks via Security-Aware P
 
 RealFactBench: [A Benchmark for Evaluating Large Language Models in Real-World Fact-Checking](https://arxiv.org/abs/2506.12538)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.12538)
+
+
+[Large Language Model-Guided Disentangled Belief Representation Learning on Polarized Social Graphs](https://ieeexplore.ieee.org/abstract/document/10637650) 
+
+
+[Decoding the Silent Majority: Inducing Belief Augmented Social Graph with Large Language Model for Response Forecasting](https://arxiv.org/abs/2310.13297)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.13297)
 
 
 ## Smart Health
