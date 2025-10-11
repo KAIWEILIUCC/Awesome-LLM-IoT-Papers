@@ -316,6 +316,9 @@ DynamiCare: [A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medi
 RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](https://arxiv.org/abs/2508.21378)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21378)
 
+NaVILA: [Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/pdf/2412.04453)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.04453)
+
 ## Human-computer Interaction
 Memoro: [Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation](https://arxiv.org/abs/2403.02135)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02135)
