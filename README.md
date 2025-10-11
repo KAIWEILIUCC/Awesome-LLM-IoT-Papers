@@ -336,6 +336,11 @@ DynamiCare: [A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medi
 
 
 
+DocCHA: [Towards LLM-Augmented Interactive Online diagnosis System](https://arxiv.org/abs/2507.07870)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07870)
+
+
+
 ## Robotics
 RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](https://arxiv.org/abs/2508.21378)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21378)
