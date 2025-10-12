@@ -370,4 +370,9 @@ Memoro: [Using Large Language Models to Realize a Concise Interface for Real-Tim
 [Exploring Large Language Model as an Interactive Sports Coach: Lessons from a Single-Subject Half Marathon Preparation](https://arxiv.org/abs/2509.26593)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.26593)
 
+
+[TransforMerger: Transformer-based Voice-Gesture Fusion for Robust Human-Robot Communication](https://arxiv.org/abs/2504.01708)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.01708)
+
+
 ## Resources
