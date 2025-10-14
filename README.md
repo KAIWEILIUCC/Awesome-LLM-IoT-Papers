@@ -356,6 +356,20 @@ DocCHA: [Towards LLM-Augmented Interactive Online diagnosis System](https://arxi
 
 
 
+MMedAgent: [Learning to Use Medical Tools with Multi-modal Agent](https://arxiv.org/abs/2407.02483)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.02483)
+
+
+
+MedAgentSim: [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/html/2503.22678v2)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2503.22678v2)
+
+
+MegaAgent: [A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs](https://arxiv.org/abs/2408.09955)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09955)
+
+
+
 ## Robotics
 RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](https://arxiv.org/abs/2508.21378)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21378)
