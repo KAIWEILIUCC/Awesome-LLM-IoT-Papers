@@ -225,6 +225,10 @@ Babel: [A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Moda
 SHADE-AD: [An LLM-Based Framework for Synthesizing Activity Data of Alzheimer's Patients.](https://dl.acm.org/doi/10.1145/3715014.3722062) (SenSys 2025)
 
 
+DailyLLM: [Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs](https://arxiv.org/abs/2507.13737)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.13737)
+
+
 ## Code Generation
 AutoIOT: [LLM-Driven Automated Natural Language Programming for AIoT Applications](https://arxiv.org/abs/2503.05346) (MobiCom 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05346)
