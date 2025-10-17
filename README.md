@@ -254,6 +254,9 @@ CheckMate: [LLM-Powered Approximate Intermittent Computing](https://dl.acm.org/d
 [Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis](https://dl.acm.org/doi/abs/10.1145/3658617.3697616) 
 
 
+[LLM for Complex Signal Processing in FPGA-based Software Defined Radios: A Case Study on FFT](https://ieeexplore.ieee.org/document/10757597) 
+
+
 ## Interesting Applications
 TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16020)
@@ -406,6 +409,12 @@ NaVILA: [Legged Robot Vision-Language-Action Model for Navigation](https://arxiv
 
 FSR-VLN: [Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/abs/2509.13733)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.13733)
+
+
+
+[Multi-robot Rigid Formation Navigation via Synchronous Motion and Discrete-time Communication-Control Optimization](https://www.arxiv.org/abs/2510.02624)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2510.02624)
+
 
 
 ## Human-computer Interaction
