@@ -222,6 +222,11 @@ SensorQA: [A Question Answering Benchmark for Daily-Life Monitoring](https://arx
 
 
 
+ChainStream: [An LLM-based Framework for Unified Synthetic Sensing](https://arxiv.org/abs/2412.15240)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15240)
+
+
+
 ## Sensor Data Generation
 
 [High Resolution Millimeter Wave Imaging Based on FMCW Radar Systems at W-Band](https://dl.acm.org/doi/10.1145/3711875.3729162)
