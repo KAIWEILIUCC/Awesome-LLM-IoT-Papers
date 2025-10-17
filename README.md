@@ -217,6 +217,11 @@ Babel: [A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Moda
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00254)
 
 
+SensorQA: [A Question Answering Benchmark for Daily-Life Monitoring](https://arxiv.org/abs/2501.04974)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04974)
+
+
+
 ## Sensor Data Generation
 
 [High Resolution Millimeter Wave Imaging Based on FMCW Radar Systems at W-Band](https://dl.acm.org/doi/10.1145/3711875.3729162)
@@ -371,6 +376,9 @@ MedAgentSim: [Self-Evolving Multi-Agent Simulations for Realistic Clinical Inter
 
 MegaAgent: [A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs](https://arxiv.org/abs/2408.09955)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09955)
+
+
+
 
 
 
