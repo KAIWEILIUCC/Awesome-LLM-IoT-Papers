@@ -417,6 +417,10 @@ FSR-VLN: [Fast and Slow Reasoning for Vision-Language Navigation with Hierarchic
 
 
 
+Expertise need not monopolize: [Action-Specialized Mixture of Experts for Vision-Language-Action Learning](https://arxiv.org/abs/2510.14300)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14300)
+
+
 ## Human-computer Interaction
 Memoro: [Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation](https://arxiv.org/abs/2403.02135)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02135)
