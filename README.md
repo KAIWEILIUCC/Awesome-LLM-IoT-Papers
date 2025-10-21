@@ -193,6 +193,12 @@ HAPE: [Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization
 [Demystifying Small Language Models for Edge Deployment](https://aclanthology.org/2025.acl-long.718/) 
 
 
+
+TinyLLM: [A Framework for Training and Deploying Language Models at the Edge Computerss](https://arxiv.org/abs/2412.15304)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15304)
+
+
+
 ## Sensor Data Understanding
 [Improving On-Device LLMs' Sensory Understanding with Embedding Interpolations](https://dl.acm.org/doi/10.1145/3636534.3697456) (MobiCom 2024)
 
