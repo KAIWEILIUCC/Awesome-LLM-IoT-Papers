@@ -134,6 +134,10 @@ AgentCPM-GUI: [Building Mobile-Use Agents with Reinforcement Fine-Tuning](https:
 
 
 
+FingerTip 20K: [A Benchmark for Proactive and Personalized Mobile LLM Agents](https://arxiv.org/abs/2507.21071).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.21071)
+
+
 
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
