@@ -426,6 +426,13 @@ Expertise need not monopolize: [Action-Specialized Mixture of Experts for Vision
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14300)
 
 
+
+
+See, Point, Fly: [A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation](https://arxiv.org/abs/2509.22653)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.22653)
+
+
+
 ## Human-computer Interaction
 Memoro: [Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation](https://arxiv.org/abs/2403.02135)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02135)
