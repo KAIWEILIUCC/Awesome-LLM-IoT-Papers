@@ -249,6 +249,10 @@ DailyLLM: [Context-Aware Activity Log Generation Using Multi-Modal Sensors and L
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.13737)
 
 
+Spider: [Any-to-Many Multimodal LLM](https://arxiv.org/abs/2411.09439)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.09439)
+
+
 ## Code Generation
 AutoIOT: [LLM-Driven Automated Natural Language Programming for AIoT Applications](https://arxiv.org/abs/2503.05346) (MobiCom 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05346)
@@ -466,5 +470,6 @@ Memoro: [Using Large Language Models to Realize a Concise Interface for Real-Tim
 
 
 ## Resources
+
 
 
