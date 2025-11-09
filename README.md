@@ -274,6 +274,12 @@ CheckMate: [LLM-Powered Approximate Intermittent Computing](https://dl.acm.org/d
 [LLM for Complex Signal Processing in FPGA-based Software Defined Radios: A Case Study on FFT](https://ieeexplore.ieee.org/document/10757597) 
 
 
+
+WebGen-Agent: [Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning](https://arxiv.org/abs/2509.22644)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.22644)
+
+
+
 ## Interesting Applications
 TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16020)
@@ -367,6 +373,9 @@ SA-OOSC: [A Multimodal LLM-Distilled Semantic Communication Framework for Enhanc
 
 [Large Language Models for Wireless Communications: From Adaptation to Autonomy](https://arxiv.org/abs/2507.21524)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.21524)
+
+
+
 
 
 
