@@ -377,6 +377,9 @@ SA-OOSC: [A Multimodal LLM-Distilled Semantic Communication Framework for Enhanc
 
 
 
+ThermiKit: [Edge-Optimized LWIR Analytics with Agent-Driven Interactions](https://dl.acm.org/doi/10.1145/3737905.3769284)  
+
+
 
 
 ## Smart Health
