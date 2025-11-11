@@ -443,6 +443,10 @@ MegaAgent: [A Large-Scale Autonomous LLM-based Multi-Agent System Without Predef
 
 
 
+Fleming-VL: [Towards Universal Medical Visual Reasoning with Multimodal LLMs](https://arxiv.org/abs/2511.00916)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.00916)
+
+
 
 
 ## Robotics
