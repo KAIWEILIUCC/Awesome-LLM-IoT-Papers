@@ -387,6 +387,11 @@ ThermiKit: [Edge-Optimized LWIR Analytics with Agent-Driven Interactions](https:
 
 
 
+[All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](https://arxiv.org/abs/2510.26641)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.26641)
+
+
+
 
 ## Smart Health
 DrHouse: [An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://arxiv.org/abs/2405.12541) (IMWUT 2024)  
