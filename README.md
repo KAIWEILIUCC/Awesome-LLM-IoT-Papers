@@ -398,6 +398,11 @@ ThermiKit: [Edge-Optimized LWIR Analytics with Agent-Driven Interactions](https:
 
 
 
+SA-OOSC: [A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding](https://arxiv.org/abs/2509.07436)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07436)
+
+
+
 ## Smart Health
 DrHouse: [An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://arxiv.org/abs/2405.12541) (IMWUT 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.12541)
@@ -494,6 +499,11 @@ Expertise need not monopolize: [Action-Specialized Mixture of Experts for Vision
 
 See, Point, Fly: [A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation](https://arxiv.org/abs/2509.22653)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.22653)
+
+
+
+Guide-LLM: [An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments](https://arxiv.org/abs/2410.20666)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20666)
 
 
 
