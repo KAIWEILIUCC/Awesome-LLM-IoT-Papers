@@ -243,6 +243,12 @@ ChainStream: [An LLM-based Framework for Unified Synthetic Sensing](https://arxi
 
 
 
+MASTER: [A Multi-modal Foundation Model for Human Activity Recognition](https://dl.acm.org/doi/10.1145/3749511)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3749511)
+
+
+
+
 ## Sensor Data Generation
 
 [High Resolution Millimeter Wave Imaging Based on FMCW Radar Systems at W-Band](https://dl.acm.org/doi/10.1145/3711875.3729162)
@@ -473,6 +479,11 @@ Fleming-VL: [Towards Universal Medical Visual Reasoning with Multimodal LLMs](ht
 Lingshu: [A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://arxiv.org/abs/2506.07044)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.07044)
 
+
+
+
+SynLLM: [A Comparative Analysis of Large Language Models for Medical Tabular Synthetic Data Generation via Prompt Engineering](https://arxiv.org/abs/2508.08529)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.08529)
 
 
 
