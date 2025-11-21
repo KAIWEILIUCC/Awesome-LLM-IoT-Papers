@@ -145,6 +145,12 @@ AgentSense: [LLMs Empower Generalizable and Explainable Web-Based Participatory 
 
 
 
+IndusGCC: [A Data Benchmark and Evaluation Framework for GUI-Based General Computer Control in Industrial Automation](https://www.arxiv.org/abs/2509.01199).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2509.01199)
+
+
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
