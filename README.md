@@ -151,6 +151,17 @@ IndusGCC: [A Data Benchmark and Evaluation Framework for GUI-Based General Compu
 
 
 
+IoT-MCP: [Bridging LLMs and IoT Systems Through Model Context Protocol](https://arxiv.org/abs/2510.01260).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.01260)
+
+
+
+AsyncVoice Agent: [Real-Time Explanation for LLM Planning and Reasoning](https://arxiv.org/abs/2510.16156).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.16156)
+
+
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
