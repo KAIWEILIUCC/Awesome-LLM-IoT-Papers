@@ -493,6 +493,9 @@ SynLLM: [A Comparative Analysis of Large Language Models for Medical Tabular Syn
 
 
 
+Myo-Trainer: [A Vision-based Muscle-Aware Motion Feedback System for In-Home Resistance Training](https://dl.acm.org/doi/10.1145/3680207.3765243)  
+
+
 
 
 ## Robotics
