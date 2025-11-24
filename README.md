@@ -244,7 +244,8 @@ D2MoE: [Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LL
 
 
 
-
+[Elastic On-Device LLM Service](https://arxiv.org/abs/2409.09071)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09071)
 
 
 
@@ -450,6 +451,11 @@ ThermiKit: [Edge-Optimized LWIR Analytics with Agent-Driven Interactions](https:
 
 SA-OOSC: [A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding](https://arxiv.org/abs/2509.07436)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07436)
+
+
+
+
+LLM-Assisted IoT Testing: [Finding Conformance Bugs in Matter SDKs](https://dl.acm.org/doi/10.1145/3680207.3765257) 
 
 
 
