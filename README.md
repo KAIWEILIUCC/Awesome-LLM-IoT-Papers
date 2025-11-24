@@ -162,6 +162,12 @@ AsyncVoice Agent: [Real-Time Explanation for LLM Planning and Reasoning](https:/
 
 
 
+VeriSafe Agent: [Safeguarding Mobile GUI Agent via Logic-based Action Verification](https://arxiv.org/abs/2503.18492).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18492)
+
+
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
@@ -219,6 +225,27 @@ HAPE: [Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization
 
 TinyLLM: [A Framework for Training and Deploying Language Models at the Edge Computerss](https://arxiv.org/abs/2412.15304)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15304)
+
+
+
+
+
+Confidant: [Customizing Transformer-based LLMs via Collaborative Edge Training](https://arxiv.org/abs/2311.13381)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13381)
+
+
+
+Modality Plug-and-Play: [Runtime Modality Adaptation in LLM-Driven Autonomous Mobile Systems](https://dl.acm.org/doi/10.1145/3680207.3723491)  
+
+
+
+D2MoE: [Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving](https://arxiv.org/abs/2504.15299)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.15299)
+
+
+
+
+
 
 
 
