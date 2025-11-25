@@ -464,6 +464,15 @@ LLM-Assisted IoT Testing: [Finding Conformance Bugs in Matter SDKs](https://dl.a
 
 
 
+
+
+CBM-RAG: [Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models](https://arxiv.org/abs/2504.20898)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.20898)
+
+
+
+
+
 ## Smart Health
 DrHouse: [An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://arxiv.org/abs/2405.12541) (IMWUT 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.12541)
