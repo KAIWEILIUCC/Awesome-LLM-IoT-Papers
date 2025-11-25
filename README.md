@@ -168,6 +168,11 @@ VeriSafe Agent: [Safeguarding Mobile GUI Agent via Logic-based Action Verificati
 
 
 
+DroidCall: [A Dataset for LLM-powered Android Intent Invocation](https://arxiv.org/abs/2412.00402).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00402)
+
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
