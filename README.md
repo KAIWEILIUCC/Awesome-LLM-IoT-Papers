@@ -173,6 +173,14 @@ DroidCall: [A Dataset for LLM-powered Android Intent Invocation](https://arxiv.o
 
 
 
+
+[More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models](https://arxiv.org/abs/2510.04532).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04532)
+
+
+
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
