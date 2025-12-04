@@ -179,6 +179,10 @@ DroidCall: [A Dataset for LLM-powered Android Intent Invocation](https://arxiv.o
 
 
 
+[BAMAS: Structuring Budget-Aware Multi-Agent Systems](https://arxiv.org/abs/2511.21572).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.21572)
+
+
 
 
 ## Edge FM
