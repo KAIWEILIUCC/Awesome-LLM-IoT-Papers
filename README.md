@@ -185,6 +185,11 @@ DroidCall: [A Dataset for LLM-powered Android Intent Invocation](https://arxiv.o
 
 
 
+HiveMind: [Contribution-Guided Online Prompt Optimization of LLM Multi-Agent Systems](https://www.arxiv.org/abs/2512.06432).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2512.06432)
+
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
