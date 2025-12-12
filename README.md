@@ -489,6 +489,9 @@ CBM-RAG: [Demonstrating Enhanced Interpretability in Radiology Report Generation
 
 
 
+[Multimodal LLM for Patient Activity Recognition: Integrating Video, Audio, and Text in Clinical Environments](https://pubmed.ncbi.nlm.nih.gov/41052200/)
+
+
 
 ## Smart Health
 DrHouse: [An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://arxiv.org/abs/2405.12541) (IMWUT 2024)  
