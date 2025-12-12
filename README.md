@@ -493,6 +493,17 @@ CBM-RAG: [Demonstrating Enhanced Interpretability in Radiology Report Generation
 
 
 
+MedSeg-R: [Reasoning Segmentation in Medical Images with Multimodal Large Language Models](https://arxiv.org/abs/2506.10465)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10465)
+
+
+
+[Reasoning Visual Language Model for Chest X-Ray Analysis](https://arxiv.org/abs/2510.23968)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.23968)
+
+
+
+
 ## Smart Health
 DrHouse: [An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://arxiv.org/abs/2405.12541) (IMWUT 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.12541)
