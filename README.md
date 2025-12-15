@@ -190,6 +190,14 @@ HiveMind: [Contribution-Guided Online Prompt Optimization of LLM Multi-Agent Sys
 
 
 
+
+DIMGen: [Dynamic Intent Macro Generation for Efficient LLM-Driven Mobile Automation](https://dl.acm.org/doi/10.1145/3737904.3768533).  
+
+
+
+
+
+
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
