@@ -45,6 +45,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.15790)
 
 
+[From Specific-MLLMs to Omni-MLLMs: A Survey on MLLMs Aligned with Multi-modalities](https://arxiv.org/abs/2412.11694).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11694)
+
+
 ## LLM Agents
 AutoDroid: [LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15272)
