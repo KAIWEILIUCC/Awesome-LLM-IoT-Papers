@@ -197,6 +197,11 @@ DIMGen: [Dynamic Intent Macro Generation for Efficient LLM-Driven Mobile Automat
 
 
 
+NESTFUL: [A Benchmark for Evaluating LLMs on Nested Sequences of API Calls](https://arxiv.org/abs/2409.03797).  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03797)
+
+
+
 
 ## Edge FM
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
