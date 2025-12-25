@@ -350,6 +350,11 @@ Spider: [Any-to-Many Multimodal LLM](https://arxiv.org/abs/2411.09439)
 
 
 
+CCC: [cross-modal contrastive creator for end-to-end sign language generation](https://link.springer.com/article/10.1007/s44443-025-00418-3#:~:text=This%20paper%20proposes%20the%20Cross,language%20videos%20directly%20from%20text.)
+
+
+
+
 
 
 ## Code Generation
