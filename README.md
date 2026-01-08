@@ -381,6 +381,12 @@ WebGen-Agent: [Enhancing Interactive Website Generation with Multi-Level Feedbac
 
 
 
+DeepFeature: [Iterative Context-aware Feature Generation for Wearable Biosignals](https://arxiv.org/abs/2512.08379)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.08379)
+
+
+
+
 ## Interesting Applications
 TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16020)
