@@ -332,6 +332,15 @@ MASTER: [A Multi-modal Foundation Model for Human Activity Recognition](https://
 
 
 
+LLM-CoSen: [Revisiting Collaborative Sensing With Large Language Models (LLMs)](https://ieeexplore.ieee.org/document/11051039)  
+
+
+
+
+
+
+
+
 
 ## Sensor Data Generation
 
@@ -612,6 +621,15 @@ SynLLM: [A Comparative Analysis of Large Language Models for Medical Tabular Syn
 
 Myo-Trainer: [A Vision-based Muscle-Aware Motion Feedback System for In-Home Resistance Training](https://dl.acm.org/doi/10.1145/3680207.3765243)  
 
+
+
+MedAide: [Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration](https://arxiv.org/html/2410.12532v2)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2410.12532v2)
+
+
+
+MedPlan: [A Two-Stage RAG-Based System for Personalized Medical Plan Generation](https://arxiv.org/abs/2503.17900)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17900)
 
 
 
