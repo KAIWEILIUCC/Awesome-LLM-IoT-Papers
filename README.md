@@ -289,6 +289,15 @@ D2MoE: [Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LL
 
 
 
+
+PerCache: [Predictive Hierarchical Cache for RAG Applications on Mobile Devices](https://arxiv.org/abs/2601.11553)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.11553)
+
+
+
+
+
+
 ## Sensor Data Understanding
 [Improving On-Device LLMs' Sensory Understanding with Embedding Interpolations](https://dl.acm.org/doi/10.1145/3636534.3697456) (MobiCom 2024)
 
@@ -378,6 +387,12 @@ CheckMate: [LLM-Powered Approximate Intermittent Computing](https://dl.acm.org/d
 
 WebGen-Agent: [Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning](https://arxiv.org/abs/2509.22644)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.22644)
+
+
+
+DeepFeature: [Iterative Context-aware Feature Generation for Wearable Biosignals](https://arxiv.org/abs/2512.08379)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.08379)
+
 
 
 
