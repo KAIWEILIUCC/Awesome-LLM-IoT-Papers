@@ -9,7 +9,8 @@
 - [🚀 Edge FM](#edge-fm)
 - [🔊 Sensor Data Understanding](#sensor-data-understanding)
 - [📊 Sensor Data Generation](#sensor-data-generation)
-- [💻 Code Generation](#code-generation)
+- [💻 IoT Software & Hardware Engineering](#iot-software--hardware-engineering)
+- [📡 Networking & Communications](#networking--communications)
 - [💡 Interesting Applications](#interesting-applications)
 - [🧑‍⚕️ Smart Health](#smart-health)
 - [🤖 Robotics](#robotics)
@@ -17,6 +18,20 @@
 - [🔗 Resources](#resources)
 
 ## Surveys
+[Foundation Models Defining A New Era In Sensor-based Human Activity Recognition: A Survey And Outlook](https://arxiv.org/abs/2604.02711). (arXiv 2026)
+
+[On-device large language models: a survey of model compression and system optimization](https://doi.org/10.1007/s10462-026-11538-1). (Artificial Intelligence Review 2026)
+
+[A Survey on Edge Multimodal Large Models: Compression, Inference Acceleration, and Applications](https://doi.org/10.1360/nso/20260016). (National Science Open 2026)
+
+[A review on LLMs for IoT ecosystem: State-of-the-art, lightweight models, use cases, key challenges, future directions](https://doi.org/10.1016/j.iotcps.2026.04.002). (Internet of Things and Cyber-Physical Systems, Volume 5, 2025; volume year as listed by the publisher)
+
+[A Survey on (M)LLM-Based GUI Agents](https://arxiv.org/abs/2504.13865). (arXiv 2025)
+
+[A Survey of Resource-efficient LLM and Multimodal Foundation Models](https://arxiv.org/abs/2401.08092). (arXiv 2024)
+
+[Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://arxiv.org/abs/2401.05459). (arXiv 2024)
+
 [A Survey of Foundation Models for IoT: Taxonomy and Criteria-Based Analysis](https://arxiv.org/abs/2506.12263).  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.12263)
 
@@ -50,6 +65,20 @@
 
 
 ## LLM Agents
+MANA: [Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation](https://arxiv.org/abs/2603.20351). (MobiCom 2026, accepted; [official list](https://www.sigmobile.org/mobicom/2026/accepted.html))
+
+ProAgent: [Harnessing On-Demand Sensory Contexts for Proactive LLM Agent Systems in the Wild](https://arxiv.org/abs/2512.06721). (IMWUT 2026, accepted; [author announcement](https://www.lilinxu.com/))
+
+SensorPersona: [An LLM-Empowered System for Continual Persona Extraction from Longitudinal Mobile Sensor Streams](https://arxiv.org/abs/2604.06204). (arXiv 2026)
+
+Pro²Assist: [Continuous Step-aware Proactive Assistance with Multi-modal Egocentric Perception for Long-horizon Procedural Tasks](https://arxiv.org/abs/2605.04227). (IMWUT 2026, to appear; [author announcement](https://www.lilinxu.com/))
+
+AgentProg: [Empowering Long-Horizon GUI Agents with Program-Guided Context Management](https://arxiv.org/abs/2512.10371). (MobiSys 2026)
+
+[Mobile GUI Agents under Real-world Threats: Are We There Yet?](https://arxiv.org/abs/2507.04227). (MobiSys 2026)
+
+IoT-Brain: [Grounding LLMs for Semantic-Spatial Sensor Scheduling](https://arxiv.org/abs/2604.08033). (MobiCom 2026, accepted; [official list](https://www.sigmobile.org/mobicom/2026/accepted.html))
+
 AutoDroid: [LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15272)
 
@@ -78,12 +107,10 @@ ContextAgent: [Context-Aware Proactive LLM Agents with Open-World Sensory Percep
 
 SensorMCP: [A Model Context Protocol Server for Custom Sensor Tool Creation](https://guoyunqi.com/assets/pdf/sensormcp-netaisys2025.pdf). (NetAISys 2025)
 
-[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://arxiv.org/abs/2503.15937).  
+[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://arxiv.org/abs/2503.15937). (Accepted as **V-Droid: Advancing Mobile GUI Agent Through Generative Verifiers**, MobiCom 2026; [official list](https://www.sigmobile.org/mobicom/2026/accepted.html))
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.15937)
 
-
-[Empowering Agentic Video Analytics Systems with Video Language Models](https://arxiv.org/abs/2505.00254).  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00254)
+AVA: [Towards Agentic Video Analytics with Vision Language Models](https://www.usenix.org/conference/nsdi26/presentation/yan). (NSDI 2026; [earlier preprint](https://arxiv.org/abs/2505.00254))
 
 
 
@@ -95,7 +122,7 @@ AutoBridge: [Automating Smart Device Integration with Centralized Platform](http
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04748)
 
 
-[Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models](https://arxiv.org/abs/2507.08878).  
+[Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models](https://arxiv.org/abs/2507.08878). (IEEE TMC, accepted; [author announcement](https://www4.comp.polyu.edu.hk/~csyqzheng/))
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.08878)
 
 
@@ -112,12 +139,12 @@ MobileViews: [A Large-Scale Mobile GUI Dataset](https://arxiv.org/abs/2409.14337
 
 
 
-AutoDroid-V2: [Boosting SLM-based GUI Agents via Code Generation](https://arxiv.org/abs/2412.18116).  
+AutoDroid-V2: [Boosting SLM-based GUI Agents via Code Generation](https://arxiv.org/abs/2412.18116). (MobiSys 2025)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.18116)
 
 
 
-LLM-Explorer: [Towards Efficient and Affordable LLM-based Exploration for Mobile Apps](https://arxiv.org/abs/2505.10593).  
+LLM-Explorer: [Towards Efficient and Affordable LLM-based Exploration for Mobile Apps](https://arxiv.org/abs/2505.10593). (MobiCom 2025)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10593)
 
 
@@ -131,11 +158,6 @@ InfiGUIAgent: [A Multimodal Generalist GUI Agent with Native Reasoning and Refle
 
 AgentCPM-GUI: [Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.01391).  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01391)
-
-
-[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://arxiv.org/abs/2503.15937).  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.15937)
-
 
 
 FingerTip 20K: [A Benchmark for Proactive and Personalized Mobile LLM Agents](https://arxiv.org/abs/2507.21071).  
@@ -166,7 +188,7 @@ AsyncVoice Agent: [Real-Time Explanation for LLM Planning and Reasoning](https:/
 
 
 
-VeriSafe Agent: [Safeguarding Mobile GUI Agent via Logic-based Action Verification](https://arxiv.org/abs/2503.18492).  
+VeriSafe Agent: [Safeguarding Mobile GUI Agent via Logic-based Action Verification](https://arxiv.org/abs/2503.18492). (MobiCom 2025)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18492)
 
 
@@ -208,6 +230,62 @@ NESTFUL: [A Benchmark for Evaluating LLMs on Nested Sequences of API Calls](http
 
 
 ## Edge FM
+[Never Start from Scratch: Expediting On-Device LLM Personalization via Explainable Model Selection](https://doi.org/10.1145/3711875.3729132). (MobiSys 2025)
+
+SAIL: [Redesigning Collaborative Language Inference with a Single Server-to-Mobile Handoff](https://doi.org/10.1145/3745756.3809224). (MobiSys 2026)
+
+FBLayout: [Optimizing Memory Layout for Efficient LLM Finetuning on Mobile GPUs](https://doi.org/10.1145/3745756.3809214). (MobiSys 2026)
+
+Vec-LUT: [Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices](https://doi.org/10.1145/3745756.3809200). (MobiSys 2026)
+
+SpMAP: [Transparent Sparsity for LLMs](https://doi.org/10.1145/3745756.3809197). (MobiSys 2026)
+
+TurboInfer: [Act Before It's Too Late: Power-Efficient LLM Inference on Mobile Device](https://doi.org/10.1145/3745756.3809208). (MobiSys 2026)
+
+[An Efficient Context Management System for On-Device LLMaaS](https://doi.org/10.1145/3774906.3800479). (SenSys 2026)
+
+Prism: Efficient Zeroth-Order Fine-Tuning for On-Device LLMs. (MobiCom 2026, accepted; [official listing](https://www.sigmobile.org/mobicom/2026/accepted.html); [author publication entry](https://fuyongjian.github.io/publications/))
+
+LeanStream: [A Speculate-and-Refine Streaming Framework for Efficient on-Device LLM Inference](https://arxiv.org/abs/2609.03079). (MobiCom 2026, accepted; [official list](https://www.sigmobile.org/mobicom/2026/accepted.html))
+
+ExoMem: OS-Governed Memory for Local Large-LLM Inference on Mobile Edge Devices. (MobiCom 2026, accepted; [official listing](https://www.sigmobile.org/mobicom/2026/accepted.html); [author publication entry](https://www.cs.cityu.edu.hk/~zhenjili/))
+
+NPUGen: NPU as KV Generator for Stable Long-Context Mobile LLM Inference. (MobiCom 2026, accepted; [official listing](https://www.sigmobile.org/mobicom/2026/accepted.html); [author publication entry](https://www.cs.cityu.edu.hk/~zhenjili/))
+
+mzCache: [On-Device LLM Memory Management under Multitasking](https://arxiv.org/abs/2609.01338). (MobiCom 2026, accepted; [official list](https://www.sigmobile.org/mobicom/2026/accepted.html))
+
+[Sparsity-Aware Scheduling for Efficient MoE-Based LLM Serving on Edge Servers](https://www.sigmobile.org/mobicom/2026/accepted.html). (MobiCom 2026, accepted; link to official listing)
+
+Neuralink: [Fast LLM Inference on Smartphones with Neuron Co-Activation Linking](https://arxiv.org/abs/2410.19274). (ASPLOS 2025; [published version](https://doi.org/10.1145/3676642.3736114))
+
+[Scaling LLM Test-Time Compute with Mobile NPU on Smartphones](https://arxiv.org/abs/2509.23324). (EuroSys 2026; [published version](https://doi.org/10.1145/3767295.3769382))
+
+[Mobile Foundation Model as Firmware](https://doi.org/10.1145/3636534.3649361). (MobiCom 2024)
+
+LiteMoE: [Customizing On-device LLM Serving via Proxy Submodel Tuning](https://doi.org/10.1145/3666025.3699355). (SenSys 2024)
+
+CrossLM: [A Data-Free Collaborative Fine-Tuning Framework for Large and Small Language Models](https://doi.org/10.1145/3711875.3729128). (MobiSys 2025; listed as CoT-LM in the initial accepted-paper list)
+
+EdgeLoRA: [An Efficient Multi-Tenant LLM Serving System on Edge Devices](https://arxiv.org/abs/2507.01438). (MobiSys 2025)
+
+WhisperFlow: [Speech Foundation Models in Real Time](https://doi.org/10.1145/3711875.3729151). (MobiSys 2025)
+
+EdgeLLM: [Fast On-Device LLM Inference With Speculative Decoding](https://doi.org/10.1109/TMC.2024.3513457). (IEEE TMC 2025; early access 2024)
+
+TimelyLLM: [Time-sensitive LLM Serving System for Physical-I/O Limited Agents](https://doi.org/10.1145/3745756.3809203). (MobiSys 2026)
+
+Agent-X: [Full Pipeline Acceleration of On-device AI Agents](https://doi.org/10.1145/3745756.3809195). (MobiSys 2026)
+
+VLMCache: [Efficient On-Device Vision-Language Model Inference](https://doi.org/10.1145/3745756.3809243). (MobiSys 2026)
+
+MMEdge: [Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding](https://doi.org/10.1145/3774906.3800485). (SenSys 2026)
+
+EdgeTune: [Efficient On-Device LLM Personalization at the Edge](https://doi.org/10.1145/3774906.3802769). (SenSys 2026)
+
+PELM: [Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling](https://doi.org/10.1145/3774906.3802783). (SenSys 2026)
+
+E²LLM: [Structure-Guided Efficient Inference for LLMs in Distributed Edge-IoT Environments](https://doi.org/10.1109/TMC.2026.3676689). (IEEE TMC 2026)
+
 MELTing Point: [Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) (MobiCom 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12844)
 
@@ -216,16 +294,15 @@ Your Data, Your Model: [A Framework for Training and Deploying Foundational Lang
 
 [Federated Black-box Prompt Tuning System for Large Language Models on the Edge.](https://dl.acm.org/doi/10.1145/3636534.3698856) (MobiCom 2024)
 
-[A Framework for Training and Deploying Foundational Language Models for Embedded Sensing.](https://dl.acm.org/doi/10.1145/3636534.3695901) (MobiCom 2024)
-
 EdgeFM: [Leveraging Foundation Model for Open-set Learning on the Edge](https://arxiv.org/abs/2311.10986) (SenSys 2023)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.10986)
 
 
 Confidant: [Customizing Transformer-based LLMs via Collaborative Training on Mobile Devices](https://yshu.org/paper/mobicom25confidant.pdf) (MobiCom 2025)  
+[Earlier preprint: Collaborative Edge Training](https://arxiv.org/abs/2311.13381)
 
 
-[Dynamic Sparse Attention on Mobile SoCs](https://arxiv.org/abs/2508.16703)  
+ShadowNPU: [System and Algorithm Co-design for NPU-Centric On-Device LLM Inference](https://arxiv.org/abs/2508.16703). (MobiSys 2026; previously titled Dynamic Sparse Attention on Mobile SoCs)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16703)
 
 
@@ -247,8 +324,8 @@ LoRASuite: [Efficient LoRA Adaptation Across Large Language Model Upgrades](http
 
 
 
-ELMS: [Elasticized Large Language Models On Mobile Devices](https://arxiv.org/pdf/2409.09071)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.09071)
+ELMS: [Elastic On-Device LLM Service](https://arxiv.org/abs/2409.09071). (MobiCom 2025)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09071)
 
 
 [Serving MoE Models on Resource-constrained Edge Devices via Dynamic Expert Swapping](https://ieeexplore.ieee.org/document/11022729)  
@@ -269,28 +346,16 @@ TinyLLM: [A Framework for Training and Deploying Language Models at the Edge Com
 
 
 
-Confidant: [Customizing Transformer-based LLMs via Collaborative Edge Training](https://arxiv.org/abs/2311.13381)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13381)
+Modality Plug-and-Play: [Runtime Modality Adaptation in LLM-Driven Autonomous Mobile Systems](https://dl.acm.org/doi/10.1145/3680207.3723491). (MobiCom 2025)
 
 
 
-Modality Plug-and-Play: [Runtime Modality Adaptation in LLM-Driven Autonomous Mobile Systems](https://dl.acm.org/doi/10.1145/3680207.3723491)  
-
-
-
-D2MoE: [Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving](https://arxiv.org/abs/2504.15299)  
+D2MoE: [Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving](https://arxiv.org/abs/2504.15299). (MobiCom 2025)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.15299)
 
 
 
-[Elastic On-Device LLM Service](https://arxiv.org/abs/2409.09071)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09071)
-
-
-
-
-
-PerCache: [Predictive Hierarchical Cache for RAG Applications on Mobile Devices](https://arxiv.org/abs/2601.11553)  
+PerCache: [Predictive Hierarchical Cache for RAG Applications on Mobile Devices](https://arxiv.org/abs/2601.11553). (IMWUT 2026, accepted; [author announcement](https://www.lilinxu.com/))
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.11553)
 
 
@@ -299,6 +364,30 @@ PerCache: [Predictive Hierarchical Cache for RAG Applications on Mobile Devices]
 
 
 ## Sensor Data Understanding
+mmExpert: Integrating Large Language Models for Comprehensive mmWave Data Synthesis and Understanding. (MobiHoc 2025; [official listing](https://www.sigmobile.org/mobihoc/2025/accepted-papers.html); [author publications](https://yshu.org/publications.html))
+
+ZA-SLAM: [Leveraging Vision-Language Model for Zero-Shot Acoustic SLAM](https://doi.org/10.1145/3745756.3809218). (MobiSys 2026)
+
+[Enabling Near-realtime Remote Sensing via Satellite–Ground Collaboration of Large Vision–Language Models](https://doi.org/10.1145/3774906.3800497). (SenSys 2026)
+
+CUHK-X: [A Large-Scale Multimodal Dataset and Benchmarks for Human Activity Scene Understanding and Reasoning](https://arxiv.org/abs/2512.07136). (MobiSys 2026; [official listing](https://www.sigmobile.org/mobisys/2026/accepted_papers/))
+
+SensorLLM: [Aligning Large Language Models with Motion Sensors for Human Activity Recognition](https://aclanthology.org/2025.emnlp-main.19/). (EMNLP 2025)
+
+oneHAR: [One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation](https://doi.org/10.1145/3749509). (IMWUT 2025)
+
+[Large Language Model-guided Semantic Alignment for Human Activity Recognition](https://doi.org/10.1145/3770652). (IMWUT 2025)
+
+TENT: [Connect Language Models With IoT Sensors for Zero-Shot Activity Recognition](https://doi.org/10.1109/TMC.2025.3650710). (IEEE TMC 2026) [arXiv](https://arxiv.org/abs/2311.08245)
+
+PFHAR: [Practically Adopting Multi-Modal Foundation Model for Human Activity Recognition Through Edge-Cloud Collaborative Learning](https://doi.org/10.1109/TMC.2026.3672513). (IEEE TMC 2026)
+
+LLMSEG: [Semantic Segmentation and Few-Shot Recognition of Human Activity Recognition Data Using Large Language Models](https://doi.org/10.1145/3774906.3802768). (SenSys 2026)
+
+[Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition](https://doi.org/10.1145/3666025.3699349). (SenSys 2024)
+
+mmCLIP: [Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment](https://doi.org/10.1145/3666025.3699331). (SenSys 2024)
+
 [Improving On-Device LLMs' Sensory Understanding with Embedding Interpolations](https://dl.acm.org/doi/10.1145/3636534.3697456) (MobiCom 2024)
 
 Penetrative AI: [Making LLMs Comprehend the Physical World](https://arxiv.org/abs/2310.09605) (ACL 2024)  
@@ -313,6 +402,7 @@ ContextLLM: [Meaningful Context Reasoning from Multi-Sensor and Multi-Device Dat
 
 
 SensorBench: [Benchmarking LLMs in Coding-Based Sensor Processing](https://dl.acm.org/doi/10.1145/3708468.3711882) (HotMobile 2025)  
+Journal extension: [Can LLMs Be Effective Sensor Processing Copilots?](https://doi.org/10.1109/JIOT.2026.3664751). (IEEE Internet of Things Journal 2026)
 
 
 [Making Sensing Interactive and Descriptive with LLMs: Context Reasoning from Multi-Sensor Data](https://dl.acm.org/doi/10.1145/3708468.3715686) (HotMobile 2025)  
@@ -320,10 +410,6 @@ SensorBench: [Benchmarking LLMs in Coding-Based Sensor Processing](https://dl.ac
 
 Babel: [A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment](https://arxiv.org/abs/2407.17777)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17777)
-
-
-[Empowering Agentic Video Analytics Systems with Video Language Models](https://arxiv.org/abs/2505.00254)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00254)
 
 
 SensorQA: [A Question Answering Benchmark for Daily-Life Monitoring](https://arxiv.org/abs/2501.04974)  
@@ -353,6 +439,12 @@ LLM-CoSen: [Revisiting Collaborative Sensing With Large Language Models (LLMs)](
 
 ## Sensor Data Generation
 
+ADLGen: [Synthesizing Symbolic, Event-Triggered Sensor Sequences for Smart-Home Human Activity Modeling](https://doi.org/10.1145/3774906.3802796). (SenSys 2026; [arXiv](https://arxiv.org/abs/2505.17987))
+
+IMUGPT: [Generating Virtual On-Body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition](https://doi.org/10.1145/3594738.3611361). (ISWC 2023)
+
+IMUGPT 2.0: [Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition](https://arxiv.org/abs/2402.01049). (IMWUT 2024)
+
 [High Resolution Millimeter Wave Imaging Based on FMCW Radar Systems at W-Band](https://dl.acm.org/doi/10.1145/3711875.3729162)
 
 
@@ -375,7 +467,16 @@ CCC: [cross-modal contrastive creator for end-to-end sign language generation](h
 
 
 
-## Code Generation
+## IoT Software & Hardware Engineering
+
+IoTGen: [Towards LLM-driven IoT Hardware Generation](https://doi.org/10.1145/3745756.3809239). (MobiSys 2026, Emerging Ideas; [code](https://github.com/luoqinpei/IoTGen))
+
+IoTPilot: [Programming Embedded IoT Applications in Natural Language with IoTPilot](https://doi.org/10.1145/3711875.3729136). (MobiSys 2025)
+
+AutoEmbed: [LLM-driven Automated Software Development for Generic Embedded IoT Systems](https://doi.org/10.1145/3774906.3800466). (SenSys 2026)
+
+AutoRF: [Towards an Agentic Framework for Automated RF Hardware Design](https://doi.org/10.1145/3745756.3809204). (MobiSys 2026)
+
 AutoIOT: [LLM-Driven Automated Natural Language Programming for AIoT Applications](https://arxiv.org/abs/2503.05346) (MobiCom 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05346)
 [![Star](https://img.shields.io/github/stars/lemingshen/AutoIOT.svg?style=social&label=Star)](https://github.com/lemingshen/AutoIOT.git)
@@ -405,7 +506,27 @@ DeepFeature: [Iterative Context-aware Feature Generation for Wearable Biosignals
 
 
 
+## Networking & Communications
+
+AutORAN: [LLM-driven Natural Language Programming for Agile xApp Development](https://arxiv.org/abs/2603.18604). (arXiv 2026)
+
+[From Bits to Tokens: Knowledge-Driven Generative Communication of Multimodal Data](https://www.usenix.org/conference/nsdi26/presentation/chen-xingyu). (NSDI 2026)
+
+[Congestion Control System Optimization with Large Language Models](https://arxiv.org/abs/2508.16074)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16074)
+
+SA-OOSC: [A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding](https://arxiv.org/abs/2509.07436)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07436)
+
+[Leveraging AI Agents for Autonomous Networks: A Reference Architecture and Empirical Studies](https://arxiv.org/abs/2509.08312)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.08312)
+
+[Large Language Models for Wireless Communications: From Adaptation to Autonomy](https://arxiv.org/abs/2507.21524)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.21524)
+
 ## Interesting Applications
+AutoTour: [Automatic Photo Tour Guide with Smartphones and LLMs](https://arxiv.org/abs/2601.06781). (arXiv 2026)
+
 TransCompressor: [LLM-Powered Multimodal Data Compression for Smart Transportation](https://arxiv.org/abs/2411.16020)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16020)
 
@@ -449,9 +570,6 @@ RouteLLM: [A Large Language Model with Native Route Context Understanding to Ena
 
 
 
-[Congestion Control System Optimization with Large Language Models](https://arxiv.org/abs/2508.16074)
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16074)
-
 
 [Enhancing User Engagement in Socially-Driven Dialogue through Interactive LLM Alignments](https://arxiv.org/abs/2506.21497)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.21497)
@@ -476,13 +594,7 @@ RealFactBench: [A Benchmark for Evaluating Large Language Models in Real-World F
 
 
 
-SA-OOSC: [A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding](https://arxiv.org/abs/2509.07436)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07436)
 
-
-
-[Leveraging AI Agents for Autonomous Networks: A Reference Architecture and Empirical Studies](https://arxiv.org/abs/2509.08312)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.08312)
 
 
 
@@ -495,9 +607,6 @@ SA-OOSC: [A Multimodal LLM-Distilled Semantic Communication Framework for Enhanc
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12587)
 
 
-
-[Large Language Models for Wireless Communications: From Adaptation to Autonomy](https://arxiv.org/abs/2507.21524)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.21524)
 
 
 
@@ -515,10 +624,6 @@ ThermiKit: [Edge-Optimized LWIR Analytics with Agent-Driven Interactions](https:
 [Edge-IoT and MLLMs for Education and Scene Understanding: Assisting Vision and Hearing-Impaired Individuals](https://ieeexplore.ieee.org/document/11048799)  
 
 
-
-
-SA-OOSC: [A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding](https://arxiv.org/abs/2509.07436)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07436)
 
 
 
@@ -551,13 +656,23 @@ MedSeg-R: [Reasoning Segmentation in Medical Images with Multimodal Large Langua
 
 
 ## Smart Health
+TimeSRL: [Generalizable Time-Series Behavioral Modeling via Semantic RL-Tuned LLMs -- A Case Study in Mental Health](https://arxiv.org/abs/2605.21295). (arXiv 2026)
+
+Health-LLM: [Large Language Models for Health Prediction via Wearable Sensor Data](https://proceedings.mlr.press/v248/kim24b.html). (CHIL 2024)
+
+[From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models](https://arxiv.org/abs/2311.13063). (IMWUT 2024)
+
+Vital Insight: [Assisting Experts' Context-Driven Sensemaking of Multi-modal Personal Tracking Data Using Visualization and Human-in-the-Loop LLM](https://arxiv.org/abs/2410.14879). (IMWUT 2025)
+
+WristSense: [Sensing Hidden Wrist Strain in Routine Activities via Inertial Tokenization and LLM-Based Feedback](https://doi.org/10.1145/3774906.3800489). (SenSys 2026)
+
 DrHouse: [An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://arxiv.org/abs/2405.12541) (IMWUT 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.12541)
 
 [LLM-based Conversational AI Therapist for Daily Functioning Screening and Psychotherapeutic Intervention via Everyday Smart Devices](https://arxiv.org/abs/2403.10779)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.10779)
 
-AutoLife: [Automatic Life Journaling with Smartphones and LLMs](https://arxiv.org/abs/2412.15714)  
+AutoLife: [Automatic Life Journaling with Smartphones and LLMs](https://arxiv.org/abs/2412.15714). (IMWUT 2025)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15714)
 
 MDTeamGPT: [A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation](https://arxiv.org/abs/2503.13856)  
@@ -643,7 +758,13 @@ MedPlan: [A Two-Stage RAG-Based System for Personalized Medical Plan Generation]
 
 
 ## Robotics
-RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](https://arxiv.org/abs/2508.21378)  
+SpatialMind: [Spatially Aware On-Device Embodied AI via Viewpoint Integration](https://pittisl.github.io/publication/2026-spatialmind/). (MobiCom 2026, accepted; earlier preprint titled MosaicThinker)
+
+[Jailbreaking Embodied LLMs via Action-Level Manipulation](https://doi.org/10.1145/3774906.3802758). (SenSys 2026)
+
+RoboFailRing: [Retrieval-Augmented and Language Grounding Failure Detection for VLM-enabled Robotic Manipulation](https://aclanthology.org/2026.acl-long.602/). (ACL 2026)
+
+RoboInspector: [Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](https://arxiv.org/abs/2508.21378). (ACM TIST, to appear; [author announcement](https://yshu.org/publications.html))
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21378)
 
 NaVILA: [Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/pdf/2412.04453)  
@@ -680,6 +801,8 @@ Guide-LLM: [An Embodied LLM Agent and Text-Based Topological Map for Robotic Gui
 
 
 ## Human-computer Interaction
+Unvoiced: [Designing an LLM-assisted Unvoiced User Interface using Earables](https://doi.org/10.1145/3666025.3699374). (SenSys 2024)
+
 Memoro: [Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation](https://arxiv.org/abs/2403.02135)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02135)
 
@@ -692,6 +815,3 @@ Memoro: [Using Large Language Models to Realize a Concise Interface for Real-Tim
 
 
 ## Resources
-
-
-
