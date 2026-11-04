@@ -65,6 +65,8 @@
 
 
 ## LLM Agents
+EC²-Bench (EC2-Bench): [Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/abs/2610.17816). (arXiv 2026; [code](https://github.com/OpenBMB/EC2-Bench))
+
 MANA: [Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation](https://arxiv.org/abs/2603.20351). (MobiCom 2026, accepted; [official list](https://www.sigmobile.org/mobicom/2026/accepted.html))
 
 ProAgent: [Harnessing On-Demand Sensory Contexts for Proactive LLM Agent Systems in the Wild](https://arxiv.org/abs/2512.06721). (IMWUT 2026, accepted; [author announcement](https://www.lilinxu.com/))
